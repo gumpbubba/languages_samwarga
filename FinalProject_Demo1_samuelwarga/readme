@@ -1,0 +1,14 @@
+My progress so far:
+
+Bought a kinect
+Learned how to take 3d scans using Skanect
+Scanned my head
+Implemeted model into appropriate obj format for processing
+Began new sketch, imported relevant libraries 
+Set up a basic interaction, press 'A' head appears, move mouse around and it follows
+
+To do:
+Figure out face detection
+Implement face detection into sketch
+map face coordinates 
+Figure out how to have 3d model "follow" face detection input
